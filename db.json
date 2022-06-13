@@ -1,0 +1,50 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "Hello",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "value": "Fuck you",
+      "isCompleted": true
+    },
+    {
+      "id": 3,
+      "value": "Fuck off",
+      "isCompleted": true
+    },
+    {
+      "value": "Bye",
+      "isCompleted": true,
+      "id": 4
+    },
+    {
+      "value": "One",
+      "isCompleted": true,
+      "id": 5
+    },
+    {
+      "value": "Hell ya!",
+      "isCompleted": true,
+      "id": 6
+    },
+    {
+      "value": "Hurry! up",
+      "isCompleted": true,
+      "id": 7
+    },
+    {
+      "value": "Who's Next?",
+      "isCompleted": true,
+      "id": 8
+    },
+    
+    {
+      "value": "dlsfs",
+      "isCompleted": true,
+      "id": 10
+    }
+  ]
+}
